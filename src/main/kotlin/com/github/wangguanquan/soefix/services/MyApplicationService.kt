@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wangguanquan.soefix.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wangguanquan.soefix.MyBundle
 
 class MyApplicationService {
 
